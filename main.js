@@ -742,7 +742,7 @@ __webpack_require__.r(__webpack_exports__);
 var LoginService = /** @class */ (function () {
     function LoginService(http) {
         this.http = http;
-        this.serverUrl = "http://fortuneraid.herokuapp.com";
+        this.serverUrl = "https://fortuneraid.herokuapp.com/";
         this.data = {
             user: null,
             token: null
