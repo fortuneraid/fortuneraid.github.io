@@ -756,7 +756,7 @@ var LoginService = /** @class */ (function () {
         this.AllUsers = [];
         // refresh childs
         this.child_elements = [];
-        this.serverUrl = 'http://localhost:8000/';
+        //this.serverUrl = 'http://localhost:8000/';
         // check if user details present or not
         var token = localStorage.getItem('auth_token');
         // user = localStorage.getItem('auth_user');
