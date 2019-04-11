@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, "body {\n  margin: 0;\n  padding-top: 60px; }\n\nhtml {\n  scroll-behavior: smooth; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9EOlxcR292aW5kIFNpbmdoXFxEb2N1bWVudHNcXFdPUkstSU5URVJOXFxGb3J0dW5lUmFpZFxcd2ViYXBwLWFuZ3VsYXIvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFNBQVM7RUFDVCxpQkFBaUIsRUFBQTs7QUFJckI7RUFDSSx1QkFBdUIsRUFBQSIsImZpbGUiOiJzcmMvc3R5bGVzLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5e1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nLXRvcDogNjBweDtcbiAgICBcblxufVxuaHRtbHtcbiAgICBzY3JvbGwtYmVoYXZpb3I6IHNtb290aDtcbn1cbiJdfQ== */", '', '']]
+module.exports = [[module.i, "body {\n  margin: 0; }\n\nhtml {\n  scroll-behavior: smooth; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9EOlxcR292aW5kIFNpbmdoXFxEb2N1bWVudHNcXFdPUkstSU5URVJOXFxGb3J0dW5lUmFpZFxcd2ViYXBwLWFuZ3VsYXIvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFNBQVMsRUFBQTs7QUFFYjtFQUNJLHVCQUF1QixFQUFBIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHl7XG4gICAgbWFyZ2luOiAwO1xufVxuaHRtbHtcbiAgICBzY3JvbGwtYmVoYXZpb3I6IHNtb290aDtcbn1cbiJdfQ== */", '', '']]
 
 /***/ }),
 
